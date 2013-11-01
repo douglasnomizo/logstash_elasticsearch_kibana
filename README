@@ -1,0 +1,2 @@
+Kibana is running on port 80 (localhost:8080 outside of vagrant)
+ElasticSearch is running on port 9200 (localhost:9200 outside of vagrant)
