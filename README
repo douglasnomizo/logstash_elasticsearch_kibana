@@ -1,2 +1,3 @@
 Kibana runs on port 80 (localhost:8080 outside of vagrant)
 ElasticSearch runs on port 9200 (localhost:9200 outside of vagrant)
+Logstash must be initialized. To use the default configurations run the command: java -jar /opt/logstash/logstash.jar agent -f /vagrant/logstash.conf
